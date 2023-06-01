@@ -3,4 +3,6 @@
 
 ### VS Code에서 코틀린 파일 실행시키는 법
 kotlinc 파일이름.kt -include-runtime -d <>.jar
+
+
 kotlin % java -jar <>.jar    
