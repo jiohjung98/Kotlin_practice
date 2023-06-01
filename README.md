@@ -5,4 +5,4 @@
 kotlinc 파일이름.kt -include-runtime -d <>.jar
 
 
-kotlin % java -jar <>.jar    
+java -jar <>.jar    
